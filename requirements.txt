@@ -1,10 +1,5 @@
-Flask 
-requests
-protobuf
-protobuf_decoder
-pyjwt
-urllib3
-pycryptodome
-httpx
-threading
-
+Flask==2.2.2
+requests==2.28.1
+pycryptodome==3.16.0
+protobuf==4.23.4
+google==3.0.2
